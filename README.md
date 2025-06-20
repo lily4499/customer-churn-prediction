@@ -219,6 +219,9 @@ python scripts/modeling.py
   * Churn by Segment (Contract type, Gender)
   * Risk Scores by Customer ID
   * Monthly Charges vs Churn
+ 
+![image](https://github.com/user-attachments/assets/c9a4baa2-7621-447e-b63c-c00a7cf3802d)
+
 
 ---
 
